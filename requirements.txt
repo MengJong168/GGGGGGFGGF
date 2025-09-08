@@ -1,0 +1,6 @@
+Flask
+Flask-Cors
+protobuf
+pycryptodome
+httpx
+cachetools
